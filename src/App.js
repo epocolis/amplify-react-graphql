@@ -13,7 +13,7 @@ function App({ signOut }) {
 	return (
 		<View className="App">
 			<Card>
-				<Heading level={1}> We now have Auth! V2</Heading>
+				<Heading level={1}> Coming soon, the flamel ui</Heading>
 			</Card>
 			<Button onClick={signOut}>Sign Out</Button>
 		</View>
